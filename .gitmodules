@@ -1,0 +1,3 @@
+[submodule "PMR2"]
+	path = PMR2
+	url = https://github.com/PMR2/PMR2userdocs.git
