@@ -1,4 +1,4 @@
-.. _ABIBook-index:
+.. _vph2014-index:
 
 ================================
 VPH 2014 - ABI Software Tutorial
@@ -11,17 +11,18 @@ version of the book has been customised for the session, "VPH tools from
 the Auckland Bioengineering Institute", which was presented at the `VPH
 2014 <http://www.ntnu.edu/vph2014/>`_ meeting.
 
+This tutorial makes use of two primary tools, OpenCOR and MAP Client, as well as the Auckland Physiome Repository. Documentation can be found for each of these collated here and corresponding to the versions used in the tutorial. 
+
 Contents:
 
 .. toctree::
    :maxdepth: 1
    :titlesonly:
 
+   tutorialOverview
    PMR2/index
    OpenCOR/index
    MAP/index
-   EMBC13 Tutorial <tutorials/embc13/index>
-   relatedSoftware
    glossary
    
 .. toctree::
@@ -37,23 +38,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
-.. The below is to avoid warnings about the listed document(s)
-.. not being included in any toctree
-
-.. toctree::
-   :hidden:
-
-   ABICaseStudies/index
-   AboutABI/index
-   CAP/index
-   CM/index
-   CellMLAPI/index
-   Cmgui/CMGUI-exporting-ipfiles
-   Cmgui/mathtest
-   MAP/index
-   MAP/MAP-install-setup
-   PMR2/bestpractice-embeddedworkspaces
-   PMR2/cellmlcuration
-   PMR2/webinterfacereference
-
