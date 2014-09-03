@@ -20,15 +20,17 @@ Contents:
    :titlesonly:
 
    tutorialOverview
+   tutorialOpenCOR
+   tutorialMap
    PMR2/index
-   OpenCOR/index
-   MAP/index
    glossary
    
 .. toctree::
    :hidden:
    
    ABIBook-TODO
+   OpenCOR/index
+   MAP/index
 
 
 
