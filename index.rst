@@ -21,8 +21,8 @@ Contents:
 
    tutorialOverview
    tutorialOpenCOR
-   tutorialMap
    PMR2/index
+   mapclient/index
    glossary
    
 .. toctree::
