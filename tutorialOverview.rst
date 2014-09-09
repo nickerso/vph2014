@@ -12,5 +12,5 @@ Tutorial outline
    :maxdepth: 3
    
    tutorialOpenCOR
-   tutorialMap
+   mapclient/index
    
