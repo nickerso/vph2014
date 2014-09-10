@@ -24,11 +24,11 @@ Contents:
    PMR2/index
    MAP/index
    glossary
+   todoList
    
 .. toctree::
    :hidden:
    
-   ABIBook-TODO
    OpenCOR/index
 
 
