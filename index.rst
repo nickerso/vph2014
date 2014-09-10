@@ -20,7 +20,7 @@ Contents:
    :titlesonly:
 
    tutorialOverview
-   tutorialOpenCOR
+   OpenCOR/index
    PMR2/index
    MAP/index
    glossary
