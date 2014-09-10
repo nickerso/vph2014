@@ -23,6 +23,7 @@ Contents:
    tutorialOpenCOR
    PMR2/index
    mapclient/index
+   MAP/index
    glossary
    
 .. toctree::
@@ -30,7 +31,6 @@ Contents:
    
    ABIBook-TODO
    OpenCOR/index
-   MAP/index
 
 
 
