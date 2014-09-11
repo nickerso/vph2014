@@ -22,7 +22,7 @@ This tutorial requires you to have:
 
 * A Mercurial client such as `TortoiseHg <http://tortoisehg.bitbucket.org/>`_ or `Mercurial <http://mercurial.selenic.com/>`_ installed;
 * The :ref:`OpenCOR <OpenCOR-downloadLinks>` CellML modelling environment and/or the :ref:`MAP <MAP-install-setup>` workflow tool installed; and
-* A text editor such as `Notepad++ <http://notepad-plus-plus.org/>`_ or `gedit <http://projects.gnome.org/gedit/>`_.
+* Possibly a text editor such as `Notepad++ <http://notepad-plus-plus.org/>`_ or `gedit <http://projects.gnome.org/gedit/>`_.
 
 The tutorial makes use of two primary tools, OpenCOR and MAP Client, as well as the model repository. For convenience, documentation for each of these projects has been collated here, corresponding to the versions of the tools used in the tutorial. 
 
