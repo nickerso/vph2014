@@ -52,7 +52,7 @@ Now would be a good time to :ref:`commit your changes <EMBC13-OpenCOR-addingCont
 Adding an electrical stimulation protocol
 -----------------------------------------
 
-Now that we have a quiesent version of the Noble (1962) model, we are able to consider adding our own electrical stimulation protocol. In the :guilabel:`Raw CellML` view you will see a component with the name ``stimulus_protocol`` as shown below.
+Now that we have a quiesent version of the Noble (1962) model, we are able to consider adding our own electrical stimulation protocol. In the :guilabel:`Raw CellML` view, you will see a component with the name ``stimulus_protocol`` as shown below.
 
 .. figure:: images/extending04.png
    :align: center
@@ -106,4 +106,4 @@ Switching back to the :guilabel:`Simulation` view, you are able to have a play w
    :align: center
    :width: 80%
 
-Now would be a good time to :ref:`commit your changes <EMBC13-OpenCOR-addingContent>` to your clone of the workspace and :ref:`push <embc13-scenario1-opencor-push>` them back to the model repository. You might also want to think about :ref:`sharing your workspace <PMR-sharingWorkspaces>` with your neighbors or to have a look at creating an :term:`exposure` for your workspace. To learn how to create exposures, please refer to :ref:`PMR-exposing-cellml`.
+Now would be a good time to :ref:`commit your changes <EMBC13-OpenCOR-addingContent>` to your clone of the workspace and :ref:`push <embc13-scenario1-opencor-push>` them back to the model repository. You might also want to think about :ref:`sharing your workspace <sharingWorkspaces>` with your neighbors or to have a look at creating an :term:`exposure` for your workspace. To learn how to create exposures, please refer to :ref:`exposing-cellml`.
