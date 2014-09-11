@@ -7,7 +7,7 @@ Recent additions to :term:`PMR2` have focussed on :ref:`working with semantic me
 
 .. _teaching instance: http://teaching.physiomeproject.org
 
-In the previous tutorial, you :ref:`annotated <tutorialOpenCOR-newWork-annotation>` your copy of the Noble (1962) model and :ref:`pushed <embc13-scenario1-opencor-push>` it up to the `teaching instance`_ repository. If you now vist your :term:`workspace` URL and navigate to the :guilabel:`RDF Indexing` tab (1), you will see that the ``n62.cellml`` is the only resource avaiable to be indexed (2).
+In the previous tutorial, you :ref:`annotated <tutorialOpenCOR-newWork-annotation>` your copy of the Noble (1962) model and :ref:`pushed <embc13-scenario1-opencor-push>` it up to the `teaching instance`_ repository. If you now visit your :term:`workspace` URL and navigate to the :guilabel:`RDF Indexing` tab (1), you will see that the ``n62.cellml`` is the only resource avaiable to be indexed (2).
 
 .. figure:: images/annotation01.png
    :align: center
@@ -37,7 +37,7 @@ In the search text field, you can begin typing the label of one of the terms you
    :align: center
    :width: 80%
 
-Once you choose the desired term you can click the :guilabel:`Search` button to exectute the search. Assuming you selected an ontology term that you used (or which someone else has used in another workspace) you should see your copy of the Noble (1962) model in the search results.
+Once you choose the desired term, you can click the :guilabel:`Search` button to exectute the search. Assuming you selected an ontology term that you used (or which someone else has used in another workspace) you should see your copy of the Noble (1962) model in the search results.
 
 .. figure:: images/annotation06.png
    :align: center
@@ -45,6 +45,6 @@ Once you choose the desired term you can click the :guilabel:`Search` button to 
 
 .. note::
 
-   Because your workspace is still private, only you will see it in the search results even if you use the same annotation terms as others. Once a workspace is published the associated annotations will become visible and searchable by all. Similarly, if you :ref:`share <sharingWorkspaces>` your workspace with another user they will then see your model show up in their search results for the appropriate ontology terms.
+   Because your workspace is still private, only you will see it in the search results even if you use the same annotation terms as others. Once a workspace is published, the associated annotations will become visible and searchable by all. Similarly, if you :ref:`share <sharingWorkspaces>` your workspace with another user they will then see your model show up in their search results for the appropriate ontology terms.
    
 In future, OpenCOR will make use of PMR2 webservices to provide a similar interface as the repository web interface directly in the application. This will allow users to find and reuse existing models all in one place.
