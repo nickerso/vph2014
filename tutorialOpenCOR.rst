@@ -15,18 +15,3 @@ In this part of the tutorial, we take you through a few common scenarios that a 
    opencor-tutorials/annotation
    opencor-tutorials/reproduce
    opencor-tutorials/extending
-
-Reproducing model behaviour
----------------------------
-
-Copy from EMBC and update for OpenCOR 0.3
-
-Extending a CelLML model
-------------------------
-
-Ditto...
-
-Annotating a model
-------------------
-
-This is a new one. Probably a useful addition as long as there is internet access to get to the repository searching.
